@@ -1,3 +1,4 @@
 Code written from CodeSnippet Tutorials (Youtube)
 
 1. Returning to the client by hard coding the value
+2. Returning to the client in ResponseBody (JSON) by using entity, DTO(Mapper)
